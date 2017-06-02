@@ -192,5 +192,4 @@ func main() {
 	} else {
 		logger.Info("IdentityChain successfully started")
 	}
-
 }
